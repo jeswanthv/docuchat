@@ -31,12 +31,10 @@ You need a Google Gemini API Key. You can get one for free at [Google AI Studio]
 1.  **Clone the repository** (if applicable) or download the source.
 
 2.  **Environment Configuration**:
-    The application relies on `process.env.API_KEY`.
-
-    If using **Vite**, create a `.env` file in the root directory:
+    The application relies on `process.env.GEMINI_API_KEY`.
 
     ```env
-    VITE_API_KEY=your_google_gemini_api_key_here
+    GEMINI_API_KEY=your_google_gemini_api_key_here
     ```
 
     _(Note: You may need to adjust `services/gemini.ts` to use `import.meta.env.VITE_API_KEY` depending on your build tool, or ensure your bundler defines `process.env.API_KEY`)._
