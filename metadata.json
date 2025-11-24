@@ -1,0 +1,5 @@
+{
+  "name": "DocuChat AI",
+  "description": "A serverless 'Chat with your PDF' application using Gemini 2.5 Flash's massive context window to process documents entirely in the browser.",
+  "requestFramePermissions": []
+}
