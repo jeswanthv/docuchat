@@ -1,4 +1,6 @@
 # DocuChat AI - Chat with your PDF
+<img width="2940" height="1592" alt="image" src="https://github.com/user-attachments/assets/19083c25-9d38-4c39-88a6-9bee36bd847d" />
+
 
 A minimalist, serverless, and secure "Chat with your PDF" application powered by Google's **Gemini 2.5 Flash**.
 
